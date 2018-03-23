@@ -1,3 +1,7 @@
+
 Where are my files?
 Are you people doing it :?
+When you people add the html files, if there are images then you should 
+add the images as well using git add otherwise it wont come after 
+cloning.
 
